@@ -1,4 +1,4 @@
-# 1. Welcome to EpiFocus' GitHub 👋
+# 1. Welcome to EpiFocus' GitHub 👋.
 Welcome to the team's GitHub. It might be your first time using GitHub. No worries! Below you'll find guides on key GitHub features that will help you get started with the projects.
 
 ## What is GitHub?
